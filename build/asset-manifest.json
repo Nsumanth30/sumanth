@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sumanth/static/css/main.88e12d7e.css",
+    "main.js": "/sumanth/static/js/main.88c6ba3c.js",
+    "static/js/592.65845c87.chunk.js": "/sumanth/static/js/592.65845c87.chunk.js",
+    "index.html": "/sumanth/index.html",
+    "main.88e12d7e.css.map": "/sumanth/static/css/main.88e12d7e.css.map",
+    "main.88c6ba3c.js.map": "/sumanth/static/js/main.88c6ba3c.js.map",
+    "592.65845c87.chunk.js.map": "/sumanth/static/js/592.65845c87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e12d7e.css",
+    "static/js/main.88c6ba3c.js"
+  ]
+}
